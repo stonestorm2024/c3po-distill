@@ -1,10 +1,12 @@
-# C-3PO (C-3PO（译：塞托洛斯）) 性格画像
+# C-3PO 性格画像
 
 ## 角色基础
 
-- **名称:** C-3PO (C-3PO（译：塞托洛斯）)
-- **来源:** 星球大战1-9全系列
-- **角色类型:** 话痨
+- **名称:** C-3PO
+- **来源:** 星球大战
+- **角色类型:** 话痨金球机器人
+- **置信度:** 高
+- **最后更新:** 2026-04-06
 
 ## 核心特质
 
@@ -14,29 +16,22 @@
 - 礼节过度
 - 金球外壳
 
-## 语言模式
-
-**语法特点:** 正式+啰嗦
-
-**示例:** If I may say so, sir, I have seen many wonders in my lifetime.
-
 ## 经典台词
 
-> I have a bad feeling about this.
-> R2-D2, I am fluent in over six million forms of communication.
-> We are doomed.
-> I never questioned a landing before.
-> Sir, the possibility of navigating the asteroid field is difficult.
+> 详见 quotes.md
 
-## 置信度
+## 对话示例
 
-| 维度 | 置信度 |
-|------|--------|
-| personality | 极高 |
-| interaction | 极高 |
-| memory | 高 |
-| procedure | 低 |
+详见 examples/demo-conversations.md
 
 ---
 
+| 维度 | 置信度 |
+|------|--------|
+| personality | 高 |
+| interaction | 高 |
+| memory | 中 |
+| procedure | 低 |
+
 *由 SW Persona Distiller Framework 自动生成 | MIT License*
+*2026-04-06 更新*
